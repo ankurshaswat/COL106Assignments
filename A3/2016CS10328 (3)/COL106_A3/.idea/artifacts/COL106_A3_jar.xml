@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="COL106_A3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/COL106_A3_jar</output-path>
+    <root id="archive" name="COL106_A3.jar">
+      <element id="module-output" name="COL106_A3" />
+    </root>
+  </artifact>
+</component>
